@@ -1,0 +1,9 @@
+[submodule "share/catkin_ws/src/ur10_rl_interface"]
+	path = share/catkin_ws/src/ur10_rl_interface
+	url = https://github.com/hoo223/ur10_rl_interface.git
+[submodule "share/pkgs/rsa"]
+	path = share/pkgs/rsa
+	url = https://github.com/hoo223/rsa
+[submodule "share/pkgs/dl"]
+	path = share/pkgs/dl
+	url = https://github.com/hoo223/dl.git

@@ -1,0 +1,1 @@
+pip install -e catkin_ws/src/ur10_rl_interface/ur10_env/

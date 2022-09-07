@@ -1,0 +1,6 @@
+share/pkgs/residual_shared_autonomy/ppo/model_backup/
+share/catkin_ws/devel/
+share/catkin_ws/build/
+share/catkin_ws/src/CMakeLists.txt
+
+share/catkin_ws/.catkin_workspace
